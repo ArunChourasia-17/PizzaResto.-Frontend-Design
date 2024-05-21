@@ -685,6 +685,22 @@ section{
    margin:1rem 0;
 }
 
+.ab:hover{
+   transform: translateY(-10px);
+}
+
+.bc:hover{
+   transform: translateY(-10px);
+}
+
+.cd:hover{
+   transform: translateY(-10px);
+}
+
+.de:hover{
+   transform: translateY(-10px);
+}
+
 .faq .accordion-container{
    max-width: 70rem;
    margin:0 auto;
